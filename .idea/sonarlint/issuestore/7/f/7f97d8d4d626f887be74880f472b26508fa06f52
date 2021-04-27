@@ -1,0 +1,13 @@
+
+I
+java:S1144i",Remove this unused private "neumann" method.(ŠúÕ£8Ş¡áèŒ/
+r	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œª±îùÿÿÿÿ8¿õÕçŒ/
+m	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘÷öò8ë÷ÖçŒ/
+h	java:S116{"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…È‘©8Ş¡áèŒ/
+k
+java:S1192"IDefine a constant instead of duplicating this literal "Size: {}" 4 times.(ˆœ‚øÿÿÿÿ8ŠÂåçŒ/
+r	java:S117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œª±îùÿÿÿÿ8û›ÁèŒ/
+r	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜œ¾ÿÿÿÿÿ8û›ÁèŒ/
+E
+java:S1659"#Declare "delta" on a separate line.(İ÷Àõûÿÿÿÿ8™šÊçŒ/
+m	java:S116z"LRename this field "U" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìçµìıÿÿÿÿ8şí‡èŒ/

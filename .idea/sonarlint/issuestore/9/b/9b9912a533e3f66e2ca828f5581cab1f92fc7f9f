@@ -1,0 +1,12 @@
+
+r	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë——øÿÿÿÿ8¸¶–çŒ/
+X	java:S1255"<This block of commented-out lines of code should be removed.(˜³§ô8İ¼ÈçŒ/
+r	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É„±ıÿÿÿÿ8¸¶–çŒ/
+W
+java:S1118
+":Add a private constructor to hide the implicit public one.(ÓÁè‡8’¤ˆãŒ/
+r	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à­±ıÿÿÿÿ8¸¶–çŒ/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“áÍŞşÿÿÿÿ8ò¬ææŒ/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôì’ÿÿÿÿÿ8ò¬ææŒ/
+Q
+java:S1144M"/Remove this unused private "lineIndex4" method.(Ú—¯ÿÿÿÿÿ8æçŒ/
